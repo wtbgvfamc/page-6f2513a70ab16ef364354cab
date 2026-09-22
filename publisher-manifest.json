@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "efb616f5bf2c1f3bfa1e586e",
+  "owner": "wtbgvfamc",
+  "repo": "page-6f2513a70ab16ef364354cab",
+  "title": "Dvpn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6f2513a70ab16ef364354cab",
+      "a": "Dvpn",
+      "b": "机场官网线路发布页",
+      "entity": "Dvpn",
+      "brand": "Dvpn",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "75236762fa6377c6571b8d4ae7b98ae55f940bcc3168c428a43dcf9ccac086c7",
+      "content": {
+        "primary_entity": "Dvpn",
+        "keyword1": "Dvpn",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据你的设备选择客户端，路由器、桌面端和移动端都有对应的订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，配置好客户端，就可以开始稳定使用。",
+          "AI_CLOSING_TITLE": "开始使用 Dvpn",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求和订阅周期来挑选套餐。基础版适合三台设备以内、月流量需求不高的用户；旗舰版提供三百GB流量和五台设备支持，并包含IPLC专线节点，适合日常游戏和流媒体场景；团队版支持二十台设备和一千GB流量，适合小型团队协作。选好套餐后，根据客户端文档导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合个人日常使用。如果设备超过3台或需要流媒体解锁，可以选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月300GB流量，支持5台设备同时在线，包含全节点原生流媒体解锁和IPLC专线游戏加速优化，并提供7x24优先工单支持。",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量，支持20台设备同时在线，提供VIP专属高带宽节点和企业定制路由，并有专属客户经理服务。",
+          "AI_FAQ_ANSWER_4": "基础版、旗舰版和团队版都支持按年付。基础版按年付150元，旗舰版按年付350元，团队版按年付850元，比按月支付更划算。",
+          "AI_FAQ_ANSWER_5": "Dvpn支持路由器、桌面端和移动端客户端，具体配置方法可以参考各客户端的订阅导入文档。不同平台的适配情况以客户端文档说明为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么样的用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版有哪些额外权益？",
+          "AI_FAQ_QUESTION_3": "团队版能支持多少台设备？",
+          "AI_FAQ_QUESTION_4": "套餐可以按年付吗？",
+          "AI_FAQ_QUESTION_5": "Dvpn支持哪些客户端？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和节点类型三个维度对比套餐，再结合订阅周期做出选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按设备数量和月流量需求选择。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，覆盖个人到小型团队的使用场景。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "节点类型",
+          "AI_GUIDE_INTRO": "从套餐对比到客户端配置，三步完成 Dvpn 使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Dvpn 提供基础版、旗舰版和团队版三种套餐，覆盖不同流量和在线设备需求。根据设备数量与月流量选择合适档位，再参照客户端文档配置订阅，即可用于日常网络加速。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付更划算",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含IPLC专线；团队版每月1000GB、20台设备。按年付分别150元、350元、850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量和每月流量需求，再对照基础版、旗舰版、团队版的权益做选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量和节点类型，确认是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "根据设备对应的客户端订阅导入说明，把订阅地址填入客户端即可完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Dvpn套餐选择指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6qc8ob.cn",
+    "host": "6qc8ob.cn"
+  },
+  "file_hashes": {
+    "index.html": "10d2c03712f00d72653e1b5f7457399f6e107dd8c8efdf231df20a9c9dba85de",
+    "sitemap.xml": "7271d04364a29ca0187e7af490d164575f47c4c07483d2923168e31333292050",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dac210259fea812a71f400aaf3b49077fde433cc679bb3ad1d028f4950ac85aa",
+    "robots.txt": "f2b87dfd0d6af9913ed3c00a771aa892de1cd09fff8e4548f1f511c0aaed15a9",
+    "50452ebeda80005a39cf987fb72d03e8.txt": "0286d2b4faeffb83636f7f2c8d0d37d62c6f0fd41d135258f8df72ea2be6defb"
+  },
+  "revision": "589d74c16d29ee5db77952fe1e84712db2f395b2a73a7efe88b2b7e062350128"
+}
